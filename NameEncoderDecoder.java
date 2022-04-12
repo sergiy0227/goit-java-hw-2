@@ -1,5 +1,3 @@
-package main.java;
-
 public class NameEncoderDecoder {
     public String encode(String name) {
         name = "NOTFORYOU" + name + "YESNOTFORYOU";
